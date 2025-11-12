@@ -38,3 +38,7 @@ A custom pipeline was created to clean text while protecting important informati
 * **Scikit-learn** (Multinomial Naive Bayes, TF-IDF, Metrics)
 * **NumPy, Pandas**
 * **joblib** (for model saving)
+
+
+https://github.com/user-attachments/assets/ba47f1e5-e47e-432b-a0a9-9d1b1f5755ee
+
