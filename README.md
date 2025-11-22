@@ -1,5 +1,8 @@
 # SMS Spam Classification using NLP: Achieving 100% Precision
 
+https://github.com/user-attachments/assets/ba47f1e5-e47e-432b-a0a9-9d1b1f5755ee
+
+
 ## Overview
 This project built a highly reliable SMS spam classifier using Natural Language Processing (NLP) techniques and the Multinomial Naive Bayes algorithm. The main goal was to achieve the highest possible **precision** for the 'spam' class.
 
@@ -40,5 +43,4 @@ A custom pipeline was created to clean text while protecting important informati
 * **joblib** (for model saving)
 
 
-https://github.com/user-attachments/assets/ba47f1e5-e47e-432b-a0a9-9d1b1f5755ee
 
